@@ -3,5 +3,6 @@ li a {
 }
 
 body {
-    background: white url("images/django.png") no-repeat;
+    background: white url("images/django.png") center no-repeat;
+    background-size: 100%
 }
